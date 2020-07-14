@@ -7,3 +7,7 @@
 Below is a visual using a grid of line charts to display government debts from 1995 to 2019. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3169571" data-url="https://flo.uri.sh/visualisation/3169571/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Below is another example of the same data to give a different outlook on the Debt-to-GDP ratio. 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3169748" data-url="https://flo.uri.sh/visualisation/3169748/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
